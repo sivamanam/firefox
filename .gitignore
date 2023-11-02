@@ -1,0 +1,16 @@
+# IntelliJ project files
+.idea
+containerise.iml
+
+# dependencies
+/node_modules
+
+# misc
+.DS_Store
+
+# build
+build
+web-ext-artifacts
+
+# Other
+/profile
